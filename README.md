@@ -1,4 +1,5 @@
-nouveautés introduites dans ce code :
+Release du 11/06/2013
+Code :
 * Optimisations
 - Amelioration du return to home
 - La RCNet FC est prise en charge par défaut sans sélectionner quoi que ce soit
@@ -44,4 +45,4 @@ EDIT : 11/06/2013 ; mise a jour en V091 ; changelog :
 - Mise a jour du Patch Mac (il copie maintenant la lib SdFat dans le dossier arduino)
 - Ajout de diverses options dans le config.h
 - PIN A9 (ROLL) Pour le RSSI
-- Ajout du RSSI FRSKY dont le calcul est différent du RSSI "normal", nécéssite un petit montage expliqué ici -> tuto-multiwii/frsky-rssi-sur-multiwii-t1688.html
+- Ajout du RSSI FRSKY dont le calcul est différent du RSSI "normal", nécéssite un petit montage expliqué ici -> http://www.rcnet.com/tuto-multiwii/frsky-rssi-sur-multiwii-t1688.html
